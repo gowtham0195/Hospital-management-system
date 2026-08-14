@@ -1,0 +1,6 @@
+{
+  "name": "MediSync Pro",
+  "description": "Comprehensive Hospital Management System featuring patient booking, doctor management, appointment history tracking, patient profiles, analytics, and global search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
