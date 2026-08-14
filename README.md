@@ -1,4 +1,4 @@
-# Hospital Management System – Description
+# Hospital Management System 
 
 A Hospital Management System is a modern web-based application designed to simplify and manage hospital operations through a centralized digital platform. It enables administrators, doctors, and patients to efficiently manage doctors, patients, appointments, departments, medical information, and hospital activities.
 
